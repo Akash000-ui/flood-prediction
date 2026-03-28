@@ -57,6 +57,7 @@ Thumbs.db
 # Model files (large)
 models/*.pkl
 models/*.joblib
+!models/random_forest_flood_model.pkl
 
 # Data files (optional - uncomment if datasets are large)
 # data/raw/*.csv
